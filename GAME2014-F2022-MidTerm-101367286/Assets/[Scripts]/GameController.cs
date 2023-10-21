@@ -1,3 +1,7 @@
+//Code is by Sinan Kolip and Jeremy Porritt 101367286
+// File name EnemyBehaviour.cs
+// Last Modified 10/21/23
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
