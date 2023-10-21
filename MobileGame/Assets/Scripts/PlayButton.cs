@@ -10,5 +10,6 @@ public class TitleScreen : MonoBehaviour
     public void LoadLevel()
     {
         SceneManager.LoadScene(game);
+        Score.Reset();
     }
 }
